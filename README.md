@@ -43,3 +43,11 @@ This is a repo for learning and playing with git and GitHub.
 * `git push --delete (remote) (branchname)` - delete branch at specified remote repository
 * `git branch -d (branchname)`: deletes branch (safe)
 * `git branch -d -r (remote branch name)` - delete reference to remote branch
+
+---
+
+Advanced stuff
+
+* interactive rebases
+* pushing a branch as "master"
+  * `git push staging testbranch:master`
