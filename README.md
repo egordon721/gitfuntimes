@@ -26,3 +26,8 @@ This is a repo for learning and playing with git and GitHub.
 * `git remote -v` lists git remotes and associated urls
 * `git remote add (name of remote) (ssh or https url)`
 * `git push (name of remote) (name of branch)`
+* Getting remote work to your local machine:
+  * Fetch and merge
+    * `git fetch (name of remote) (name of branch - optional... leave off for all branches at that remote)`
+    * `git merge (name of pointer... could be origin/master if you fetch origin master first)`
+  * Pull
