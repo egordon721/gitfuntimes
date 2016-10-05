@@ -2,7 +2,7 @@
 
 This is a repo for learning and playing with git and GitHub.
 
-pic here?
+![](./commit-graph.png)
 
 ---
 
