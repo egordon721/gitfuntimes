@@ -47,8 +47,8 @@ This is a repo for learning and playing with git and GitHub.
 ###Working with Forks
 * `git remote -v`: lists all of the remote branches
 * `git branch`: lists all of your branches (the one with an * is the branch you are currently in)
-* `git remote add upsteam https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`: specify a new upstream repository
-* `git pull upsteam master`: 
+* `git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`: specify a new upstream repository
+* `git pull upstream master`: refresh your local version of code from the upstream (as defined in the step above)
 ---
 
 Advanced stuff
