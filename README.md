@@ -44,6 +44,11 @@ This is a repo for learning and playing with git and GitHub.
 * `git branch -d (branchname)`: deletes branch (safe)
 * `git branch -d -r (remote branch name)` - delete reference to remote branch
 
+###Working with Forks
+* `git remote -v`: lists all of the remote branches
+* `git branch`: lists all of your branches (the one with an * is the branch you are currently in)
+* `git remote add upsteam https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git`: specify a new upstream repository
+* `git pull upsteam master`: 
 ---
 
 Advanced stuff
